@@ -1,0 +1,124 @@
+.a1{
+  background-color: #FFFBF5;
+  width: 300px;
+  height: 460px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.img{
+  width: 300px;
+  height:456px;
+  border-radius: 10px;
+}
+
+body{
+  position: relative;
+  background-color: #FFF3E4;
+}
+
+.tb{
+  position: absolute;
+  left: 300px;
+  top: 100px;
+}
+
+.pf{
+  color: #9E9FA5;
+  position: relative;
+  left: 35px;
+  top: 30px;
+  font-size: 12px;
+  font-family:'Trispace', sans-serif;
+}
+
+#ncst{
+  color: #40514E;
+  left: 180px;
+  font-size: 18px;
+  position: relative;
+  bottom: 47px;
+}
+
+.l1{
+  font-size: 35px;
+  position: relative;
+  color: #191717;
+  left: 35px;
+  top: 30px;
+  font-weight: 200;
+  font-family: 'Fraunces', serif;
+}
+
+.l2{
+  font-size: 35px;
+  position: relative;
+  left: 35px;
+  top: 28px;
+  color: #191717;
+  font-weight: 200;
+  font-family: 'Fraunces', serif;
+}
+
+.l3{
+  font-size: 35px;
+  font-weight: 200;
+  position: relative;
+  left: 35px;
+  top: 28px;
+  color: #191717;
+  font-family: 'Fraunces', serif;
+}
+
+.descp{
+  position: relative;
+  top: 50px;
+  left: 35px;
+  width: 210px;
+  line-height: 1.5;
+  color: #40514E;
+}
+
+.cst{
+  position: relative;
+  font-weight: 200;
+  top: 63px;
+  left: 35px;
+  font-size: 32px;
+  font-family: 'Carrois Gothic', sans-serif;
+  font-weight:200;
+  color: #245953;
+}
+
+.func{
+  position: relative;
+  left: 53px;
+  width: 140px;
+  top: 60px;
+  font-size: 20px;
+  background: #0e5c0a;
+  background-image: -webkit-linear-gradient(top, #0e5c0a, #0e5c0a);
+  background-image: -moz-linear-gradient(top, #0e5c0a, #0e5c0a);
+  background-image: -ms-linear-gradient(top, #0e5c0a, #0e5c0a);
+  background-image: -o-linear-gradient(top, #0e5c0a, #0e5c0a);
+  background-image: linear-gradient(to bo#0e5c0a, #0e5c0a);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Georgia;
+  color: white;
+  font-size: 20px;
+  padding: 10px 2px 10px 30px;
+  text-decoration: none;
+}
+
+.func:hover {
+  cursor: pointer;
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #0a4d07, #0a4d07);
+  background-image: -moz-linear-gradient(top, #0a4d07, #0a4d07);
+  background-image: -ms-linear-gradient(top, #0a4d07, #0a4d07);
+  background-image: -o-linear-gradient(top, #0a4d07, #0a4d07);
+  background-image: linear-gradient(to bottom, #0a4d07, #0a4d07);
+  text-decoration: none;
+}
